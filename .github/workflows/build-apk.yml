@@ -34,3 +34,7 @@ jobs:
         with:
           name: UltraPay-APK
           path: app/build/outputs/apk/debug/app-debug.apk
+
+          defaults:
+  run:
+    working-directory: UltraPay-Android-AdMob-Project
